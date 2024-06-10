@@ -1,0 +1,4 @@
+Patente del Vehiculo: LSRE24
+Edad del Cliente: 29
+Fecha de la Venta: 1-5-2024
+Nombre de Venta: minibus_1

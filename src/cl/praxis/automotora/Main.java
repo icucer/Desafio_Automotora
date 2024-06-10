@@ -43,5 +43,8 @@ public class Main {
                 System.out.println();
             }
         }
+
+        LibroVenta venta_1 = new LibroVenta("minibus_1", "01052024");
+        venta_1.guardarVenta(cliente_1, minibus_1);
     }
 }

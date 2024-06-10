@@ -58,6 +58,9 @@ public class Taxi extends Vehiculo{
         }
     }
 
+    /***
+     * Sobreescritura del método toString
+     ***/
     @Override
     public String toString() {
         return "Taxi: {" +

@@ -72,6 +72,9 @@ public class Minibus extends Bus{
         System.out.println("Tipo de Viaje: " + tipoViaje);
     }
 
+    /***
+     * Sobreescritura del método toString
+     ***/
     @Override
     public String toString() {
         return "Minibus: {" +
